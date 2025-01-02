@@ -1,5 +1,3 @@
-# PortfolioChallenge
-
 # Challenge ONE | Front End -  Portafolio
 
 <p align="center" >
